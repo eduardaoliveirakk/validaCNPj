@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2022102020050\\Documents\\validaCNPj\\CNPJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD51A866-7A4A-4704-A70D-43E3A46D12E5}|CNPJ\\CNPJ.csproj|c:\\users\\2022102020050\\documents\\validacnpj\\cnpj\\cnpj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD51A866-7A4A-4704-A70D-43E3A46D12E5}|CNPJ\\CNPJ.csproj|solutionrelative:cnpj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020050\\Documents\\validaCNPj\\CNPJ\\CNPJ\\Program.cs",
+              "RelativeDocumentMoniker": "CNPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\2022102020050\\Documents\\validaCNPj\\CNPJ\\CNPJ\\Program.cs",
+              "RelativeToolTip": "CNPJ\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T18:05:54.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
